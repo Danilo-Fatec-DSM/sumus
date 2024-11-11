@@ -24,7 +24,7 @@ Através da aplicação, queremos conectar usuários que necessitam desse tipo d
 - João Victor Lazarini da Fonseca
 - Luiz Guilherme Barcelos dos Santos
 - Matheus Henrique Gonçalo da Silva
-- Walison Lopes Souza
+- Walisom Lopes Souza
 
 ## Veja o Site em Ação
 
