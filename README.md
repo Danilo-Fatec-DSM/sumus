@@ -43,6 +43,6 @@ Para clonar este projeto, siga os passos abaixo:
    git clone https://github.com/Danilo-Fatec-DSM/sumus.git
 
 ## Documentação
-Para baixar a documentação do proejto no [link para download](https://github.com/user-attachments/files/17701434/sumus_documentacao.pdf)
+Para baixar a documentação click no [link para download](https://github.com/user-attachments/files/17701434/sumus_documentacao.pdf)
 
   
