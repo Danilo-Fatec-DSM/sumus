@@ -44,9 +44,11 @@ Para clonar este projeto, siga os passos abaixo:
 
 ## Documentação
 
-Para baixar a documentação em Word click em [Word](https://github.com/user-attachments/files/17710067/sumus_word_entrega.docx)
+Para baixar a documentação em Word click em [Word](https://github.com/user-attachments/files/17710227/sumus_documentacao.docx)
 <br>
-Para baixar a documentação em PDF click em [PDF](https://github.com/user-attachments/files/17710139/sumus_documentacao.pdf)
+Para baixar a documentação em PDF click em [PDF](https://github.com/user-attachments/files/17710226/sumus_documentacao.pdf)
+
+
 
 
   
